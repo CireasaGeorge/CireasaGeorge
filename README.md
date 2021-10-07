@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CireasaGeorge
+- 👀 I’m interested in Artificial Inteligents
+- 🌱 I’m currently learning Machine Learning and Neural Networks
+- 💞️ I’m looking to collaborate on a lot of projects
